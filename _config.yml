@@ -1,6 +1,4 @@
 remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Programmer's Mind
 description: It is important to never stop questioning. Curiousity has it's own reason for existing. ~Albert Einstein. 
